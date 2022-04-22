@@ -1,3 +1,5 @@
+console.log("This is an edited global.js file");
+
 function getFocusableElements(container) {
   return Array.from(
     container.querySelectorAll(
